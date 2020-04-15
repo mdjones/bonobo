@@ -61,7 +61,7 @@ setup(
     include_package_data=True,
     install_requires=[
         'fs (~= 2.0)', 'graphviz (>= 0.8, < 0.9)', 'jinja2 (~= 2.9)',
-        'mondrian (~= 0.7)', 'packaging (~= 19.0)', 'psutil (~= 5.4)',
+        'mondrian (~= 0.7)', 'packaging (~= 20.0)', 'psutil (~= 5.4)',
         'python-slugify (~= 1.2.0)', 'requests (~= 2.0)',
         'stevedore (~= 1.27)', 'whistle (~= 1.0)'
     ],
